@@ -3,15 +3,7 @@
   "site_title": "Journal of a Fatah's Journey",
   "site_description": "Helping myself to be better :)",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "ios"
   ],
   "posts_per_page": 5,
   "twitter_account": "ahikmatf",
